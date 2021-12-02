@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
-    <title>256x256/vcs-added</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="VCS2-Clement-Colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="256x256/vcs-added" stroke-width="5" stroke="#398EB6" fill="#59B2DC">
-            <g id="Added" transform="translate(25.000000, 25.000000)">
-                <polygon id="Path-2" points="-3.75312317e-14 80.5494217 80.4802866 80.5494217 80.4802866 0 127.266548 0 127.266548 80.9937849 206 80.9937849 206 128.764891 128.212292 128.764891 128.212292 206 79.4338431 206 79.4338431 125.538526 1.62686892 125.538526"></polygon>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" version="1.1" viewBox="0 0 256 256"><title>256x256/vcs-added</title><desc>Created with Sketch.</desc><g id="VCS2-Clement-Colored" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="256x256/vcs-added" fill="#59B2DC" stroke="#398EB6" stroke-width="5"><g id="Added" transform="translate(25.000000, 25.000000)"><polygon id="Path-2" points="0 80.549 80.48 80.549 80.48 0 127.267 0 127.267 80.994 206 80.994 206 128.765 128.212 128.765 128.212 206 79.434 206 79.434 125.539 1.627 125.539"/></g></g></g></svg>
